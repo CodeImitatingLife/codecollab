@@ -8,6 +8,6 @@ public class Hello{
     }
 
     public static String newMsg(){
-        String str="Could this possibly work?");
+        String str="Could this possibly work? I hope so...");
     }
 }
